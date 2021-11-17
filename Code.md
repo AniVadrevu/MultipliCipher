@@ -12,4 +12,4 @@ inverse a:
 
 1	9	21	15	3	19	7	23	11	5	17	25
 
-There is an [Easy Decode](https://www.ti89.com/cryptotut/multi4.htm)
+There is an [Easy Decode](https://www.ti89.com/cryptotut/multi4.htm) in which you can just plug in your coded message and numbers and it will decode for you.
