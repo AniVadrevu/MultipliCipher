@@ -8,4 +8,4 @@
 
 ## What is the mathematical complexity to solve the code?
 * Multiplicative cyphers can work with very large keys, such as 9,100,101. 
-* It would take a long time for a computer to solve the code through brute-forcing through the keys. 
+* It would take a long time for a computer to solve the code through brute-forcing through the millions of keys. 
