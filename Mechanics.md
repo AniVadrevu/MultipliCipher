@@ -24,6 +24,11 @@ Heres a basic modulation function of a multiplcative cipher in python
    
    **return chr(((key[0] * (offset + key[1])) % width) + ASC_A)**
    
+   
+   
+   
+Below is an example of encrypting and decrypting the multiplicity cipher
+   
 [A link to encoding and decoding](https://www.ti89.com/cryptotut/multi4.htm)
 
 
