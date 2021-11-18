@@ -16,5 +16,13 @@ The number fetched through output is mapped in the table mentioned belowand the 
 
 ![encryption graph](https://www.tutorialspoint.com/cryptography_with_python/images/encrypted_letter.jpg)
 
+Heres a basic modulation function of a multiplcative cipher in python
+
+**def unshift(key, ch):**
+
+   **offset = ord(ch) - ASC_A**
+   
+   **return chr(((key[0] * (offset + key[1])) % width) + ASC_A)**
+
 
 
