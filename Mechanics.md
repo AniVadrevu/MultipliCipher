@@ -23,6 +23,7 @@ Heres a basic modulation function of a multiplcative cipher in python
    **offset = ord(ch) - ASC_A**
    
    **return chr(((key[0] * (offset + key[1])) % width) + ASC_A)**
+   
 [A link to encoding and decoding](https://www.ti89.com/cryptotut/multi4.htm)
 
 
